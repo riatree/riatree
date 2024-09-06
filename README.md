@@ -16,7 +16,7 @@
 
 🌳 Tree's WorkList
 ---
-1.History
+
 DnbSoft - 축산물류플랫폼 서비스 erp 
 주요기술 : php, mysql, wpf 등. 
 - 축산기업중앙회 장비교육
